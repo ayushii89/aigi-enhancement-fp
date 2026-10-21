@@ -1,0 +1,27 @@
+{
+ "python": "3.13.15",
+ "gpu": "Tesla T4",
+ "packages": {
+  "torch": "2.11.0+cu130",
+  "torchvision": "0.26.0+cu130",
+  "open_clip_torch": "3.3.0",
+  "spandrel": "0.4.2",
+  "spandrel_extra_arches": "0.2.0",
+  "lpips": "0.1.4",
+  "piq": "0.8.0",
+  "scikit-image": "0.25.2",
+  "opencv-python-headless": "5.0.0.93",
+  "numpy": "2.1.3",
+  "scipy": "1.16.3",
+  "statsmodels": "0.15.0",
+  "pandas": "2.2.3"
+ },
+ "weights": {
+  "RealESRGAN_x2plus.pth": "49fafd45f8fd7aa8",
+  "003_realSR_BSRGAN_DFO_s64w8_SwinIR-M_x2_GAN.pth": "f397408977a3e07e",
+  "RealESRGAN_x4plus.pth": "4fa0d38905f75ac0",
+  "003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth": "99adfa91350a84c9",
+  "005_colorDN_DFWB_s128w8_SwinIR-M_noise15.pth": "917cd972f7ba8078",
+  "005_colorDN_DFWB_s128w8_SwinIR-M_noise50.pth": "096fcdda50704292"
+ }
+}

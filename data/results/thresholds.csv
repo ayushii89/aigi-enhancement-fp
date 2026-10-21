@@ -1,0 +1,4 @@
+detector,tau,rule,calib_fpr_observed,scores_equal_to_tau
+npr,71.5576865,"95th pct of clean calib (linear interp.), flag if score > tau",0.05,0
+rigid,0.049094622,"95th pct of clean calib (linear interp.), flag if score > tau",0.05,0
+univfd,-0.1914862014999993,"95th pct of clean calib (linear interp.), flag if score > tau",0.05,0

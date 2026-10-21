@@ -1,0 +1,4 @@
+detector,tau,rule,calib_fpr_observed,scores_equal_to_tau
+npr,24.135853,EER between clean calib and Synthbuster (no test images),0.4766666666666667,1
+rigid,0.011426449,EER between clean calib and Synthbuster (no test images),0.4033333333333333,1
+univfd,-4.2252946,EER between clean calib and Synthbuster (no test images),0.2833333333333333,1

@@ -1,0 +1,4 @@
+detector,clean_test_fpr,n_real,auc,tpr_at_tau,n_fake,tpr_dalle2,tpr_dalle3,tpr_firefly,tpr_midjourneyv5,tpr_stablediffusion13,tpr_stablediffusion14,tpr_stablediffusion2,tpr_stablediffusionxl
+npr,0.5933333333333334,300,0.4419416666666667,0.52375,800,0.16,0.42,0.29,0.8,0.57,0.64,0.42,0.89
+rigid,0.39666666666666667,300,0.6186708333333333,0.59625,800,0.78,0.4,0.87,0.59,0.28,0.27,0.79,0.79
+univfd,0.33,300,0.756175,0.7175,800,0.97,0.13,0.82,0.47,0.82,0.87,0.88,0.78

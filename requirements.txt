@@ -1,0 +1,16 @@
+torch>=2.2
+torchvision
+open_clip_torch
+spandrel
+spandrel_extra_arches
+lpips
+piq
+numpy
+scipy
+pandas
+statsmodels
+scikit-image
+opencv-python-headless
+Pillow
+matplotlib
+requests

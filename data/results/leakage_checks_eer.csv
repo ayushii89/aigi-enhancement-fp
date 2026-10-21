@@ -1,0 +1,2 @@
+calib_test_disjoint,n_calib,n_test,no_enhanced_calibration_images,fakes_disjoint_from_reals
+True,300,300,True,True
